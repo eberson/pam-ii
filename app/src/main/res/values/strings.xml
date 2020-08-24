@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Força de Vendas</string>
+
+    <!-- login activity -->
+    <string name="login_username_hint">Usuário</string>
+    <string name="login_password_hint">Senha</string>
+
+    <string name="btn_sign_in">Entrar</string>
+    <string name="btn_sign_up">Cadastrar</string>
+
+    <string name="msg_user_created">Usuário criado com sucesso! Agora você pode fazer login</string>
+    <string name="msg_invalid_email">Este e-mail não é válido!</string>
+    <string name="msg_required_field">Este campo é obrigatório!</string>
+    <string name="msg_invalid_credential">Credenciais inválidas!</string>
+    <string name="msg_welcome">Seja bem vindo, %1$s!</string>
+
+    <string name="menu_exit">Sair</string>
+
+</resources>

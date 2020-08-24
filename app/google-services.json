@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436704790925",
+    "firebase_url": "https://forcavendas-93a91.firebaseio.com",
+    "project_id": "forcavendas-93a91",
+    "storage_bucket": "forcavendas-93a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436704790925:android:f3d116c79646a0ffe815c4",
+        "android_client_info": {
+          "package_name": "br.com.etecmatao.forcadevendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436704790925-mt663bbn5rpbr5glmqi06ovgnn6n97r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.etecmatao.forcadevendas",
+            "certificate_hash": "edf0f5ca16118d74863fc43a1464ed81d3d227f1"
+          }
+        },
+        {
+          "client_id": "436704790925-oc895ntguqo4hf93selv90mi2o4q1sol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuYIo-Q6-aWPFfYy3mS-X_bXIgo-JZIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436704790925-oc895ntguqo4hf93selv90mi2o4q1sol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
